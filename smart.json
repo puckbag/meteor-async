@@ -1,0 +1,8 @@
+{
+  "name": "async",
+  "description": "Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.",
+  "homepage": "https://github.com/puckbag/meteor-async",
+  "author": "Travis Miller",
+  "version": "master",
+  "git": "git://github.com/puckbag/meteor-async.git"
+}
